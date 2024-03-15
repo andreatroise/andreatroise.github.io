@@ -40,19 +40,17 @@ As you can imagine, Wall-e was my favourite Disney movie growing up...
 - Gained experience in team work environment and learned the basics of 3D modeling using Catia software by Dassault Systèmes.
 
 **Welcomer @ [Borgo Egnazia](https://www.borgoegnazia.com/) (_Summer of 2017 and 2018_)**
-- During my university studies, I consistently sought opportunities to gain practical work experiences and financial independence. In the summers of 2017 and 2018, I was privileged to serve as a Guest Welcomer at Borgo Egnazia, a prestigious 5-star resort nestled in the heart of Fasano, Apulia Region. This role provided me with invaluable insights and experiences, especially in a beacon of global excellence in the Apulia region.
-- Over the years Borgo Egnazia has hosted many prestigious events, among them there is also the G7 in 2024.
+- During my university studies, I consistently sought opportunities to gain practical work experiences and financial independence. In the summers of 2017 and 2018, I was privileged to serve as a Guest Welcomer at Borgo Egnazia, a prestigious 5-star resort nestled in the heart of Fasano, Apulia Region. This role provided me with invaluable insights and experiences, especially in a beacon of global excellence in the Apulia region. Over the years Borgo Egnazia has hosted many prestigious events, among them there is also the G7 in 2024.
 
 ## Space-related activities
 **[Mentoring Team](https://spacegeneration.org/mentoring) Co-Lead at Space Generation Advisory Council**
-- I've been passionate about space for many many years, but before starting the PhD it looked like a field very difficult to approach, especially in my region (southern Italy) and without a space-focused academical background. After beginning my PhD a new world opened up in front of me: I discovered a field that is indeed very different from my initial idea. The space sector needs interdisciplinarity and talents, now more than ever.
-That is why, after discovering the amazing work carried out by the Space Generation Advisory Council in the space sector, I tried to give my small contribute in supporting students and young professionals that need guidance in their own path. That's exactly what the Mentoring Committee objective is. We match students and young professionals with senior individuals with years of expertise in the space sector, so that they can connect and enrich each other life.
-
-![Malerba](/Pics/1694637249452.jpg)
-In this picture, I had the honor of meeting and speaking with Franco Malerba, the first Astronaut in italian history, truly a beautiful person.
+- I've been passionate about space for many many years, but before starting the PhD it looked like a field very difficult to approach, especially in my region (southern Italy) and without a space-focused academical background. After beginning my PhD a new world opened up in front of me. The space sector needs interdisciplinarity and talents, now more than ever.
+That is why, after discovering the amazing work carried out by the [Space Generation Advisory Council](https://spacegeneration.org/) for young space enthusiasts, I tried to give my small contribute in supporting students and young professionals that need guidance for their own path. That's exactly the objective of the Mentoring Committee. We match students and young graduates with senior professionals with years of expertise in the space sector, so that they can connect and enrich each other's life.
 
 **Conferences**
 - I had the pleasure of attending several space-related conferences in these years, during which I learnt many things and met many amazing people
+![Malerba](/Pics/1694637249452.jpg)
+In this picture, I had the honor of meeting and speaking with Franco Malerba, the first Astronaut in italian history, truly a beautiful person.
 - [European Space Generation Workshop](https://spacegeneration.org/7esgw2023) | Bari, Italy | Delegate in the Space Weather effects
 - [Spring school on space commercialisation](https://ecseco.org/event/spring-school-gsew/) | Bari, Italy | PhD student partecipant
 - [Global Space Economic Workshop](https://www.dtascarl.org/en/the-global-space-economic-workshop/) | Mesagne, Italy | Representing Astradyne
