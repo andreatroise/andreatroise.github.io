@@ -1,10 +1,8 @@
 ## PhD candidate in Aerospace Engineering
 
-I am an Italian engineer, currently enrolled in the XXXVIII Cycle of Politecnico di Bari PhD Programme in engineering and aerospace sciences, with a grant co-funded by Astradyne s.r.l.
+I am an Italian engineer, currently enrolled in the XXXVIII Cycle of Politecnico di Bari PhD Programme in engineering and aerospace sciences, with a grant co-funded by [Astradyne](https://www.astradyne.space/) s.r.l.
 
-I obtained a bachelor’s degree in Mechanical Engineering at Politecnico di Bari,and a master’s degree in Mechatronic Engineering at Politecnico di Torino.
-In my studies, I learned to mix many different subjects, from mechanics to electronics, with a predilection for aerospace applications.
-
+I obtained a bachelor’s degree in Mechanical Engineering at [Polytechnic University of Bari](https://www.poliba.it/it), and a Master’s degree with honors in Mechatronic Engineering at [Polytechnic University of Turin](https://www.polito.it/). In my studies, I learned to mix many different subjects, from mechanics to electronics, with a predilection for aerospace applications.
 I consider myself a curious person, I always ask myself the reasoning behind things and put in discussion my point of view.
 
 ![Wall-e](/Pics/IMG_4643.JPG)
@@ -98,3 +96,5 @@ In this picture, I had the honor of meeting and speaking with Franco Malerba, th
 - [Orcid](https://orcid.org/0009-0006-4864-6603)
 - [Instagram](https://www.instagram.com/andrea.troise.9/)
 - [Facebook](https://www.facebook.com/a.troise.9/)
+
+  You can reach messaging me through LinkedIn
