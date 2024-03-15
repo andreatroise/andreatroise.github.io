@@ -59,7 +59,6 @@ I've donated blood regularly since high school, it is just one of those things t
 3. Buscicchio, Alessandro, et al. "SolarCube: An Origami-Inspired Lightweight Deployable Solar Panel for Nanosatellites." 2023 13th European Space Power Conference (ESPC). IEEE, 2023 (DOI: https://doi.org/10.1109/espc59009.2023.10298125)
 4. Troise, A., et al. "Reduced-order modelling of the deployment of a modified flasher origami for aerospace applications." Materials Research Proceedings 37 (2023) (DOI: https://doi.org/10.21741/9781644902813-120)
 
-- [Data Science Blog](https://medium.com/@shawhin)
 - [Linkedin](https://www.linkedin.com/in/andrea-troise/)
 - [Instagram](https://www.instagram.com/andrea.troise.9/)
 - [Facebook](https://www.facebook.com/a.troise.9/)
