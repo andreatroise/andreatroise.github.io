@@ -50,6 +50,7 @@ As you can imagine, Wall-e was my favourite Disney movie growing up...
 - I've been passionate about space for many many years, but before starting the PhD it looked like a field very difficult to approach, especially in my region (southern Italy) and without a space-focused academical background. After beginning my PhD a new world opened up in front of me: I discovered a field that is indeed very different from my initial idea. The space sector needs interdisciplinarity and talents, now more than ever.
 That is why, after discovering the amazing work carried out by the Space Generation Advisory Council in the space sector, I tried to give my small contribute in supporting students and young professionals that need guidance in their own path. That's exactly what the Mentoring Committee objective is. We match students and young professionals with senior individuals with years of expertise in the space sector, so that they can connect and enrich each other life.
 
+![Malerba](/Pics/Immagine1.jpg)
 **Conferences**
 - I had the pleasure of attending several space-related conferences in these years, during which I learnt many things and met many amazing people
 - [European Space Generation Workshop](https://spacegeneration.org/7esgw2023) | Bari, Italy | Delegate in the Space Weather effects
@@ -61,7 +62,6 @@ That is why, after discovering the amazing work carried out by the Space Generat
 - [ESPC 2023](https://atpi.eventsair.com/espc2023/) | Elche, Spain | Representing Astradyne
 - [A&D Meetings](https://torino.bciaerospace.com/) | Turin, Italy | Representing Astradyne
 - Italian Innovation days | Tokyo, Italy | Representing Astradyne
-- ![Malerba](/Pics/Immagine1.jpg)
 
 
 ## Publications
