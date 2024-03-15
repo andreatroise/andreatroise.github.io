@@ -61,7 +61,7 @@ That is why, after discovering the amazing work carried out by the Space Generat
 - [ESPC 2023](https://atpi.eventsair.com/espc2023/) | Elche, Spain | Representing Astradyne
 - [A&D Meetings](https://torino.bciaerospace.com/) | Turin, Italy | Representing Astradyne
 - Italian Innovation days | Tokyo, Italy | Representing Astradyne
-![Malerba](/Pics/Immagine1.jpg)
+- ![Malerba](/Pics/Immagine1.jpg)
 
 
 ## Publications
@@ -80,17 +80,17 @@ That is why, after discovering the amazing work carried out by the Space Generat
 - I've donated blood regularly since high school, it is just one of those things that make me feel better with myself. I attended several medical fundraising events organised by my local Lions International district. I also organised a scientific divulgation event talking about space economy and space environmental footprint (LinkedIn)[https://www.linkedin.com/events/ingegneriaescienzeaerospaziali-7149455471769272320/comments/]. I aim to give back to my community, and I will try to do it more and more in the incoming years.
 
 **Drawings**
-Sometimes I draw stuff, I'm not good, I typically do it only to express emotions. I love Escher and his works, the spiral-y thing is actually one of his works, it is my profile picture in many social media. The spiral represents the Uroboro, a symbol of eternal return, for me it is the symbol of committment towrds the continuous improvement of myself.
+- Sometimes I draw stuff, I'm not good, I typically do it only to express emotions. I love Escher and his works, the spiral-y thing is actually one of his works, it is my profile picture in many social media. The spiral represents the Uroboro, a symbol of eternal return, for me it is the symbol of committment towrds the continuous improvement of myself.
 ![Uroboro](/Pics/IMG_2663.JPG)
 ![eye](/Pics/IMG_2664.JPG)
 ![Kintsugi](/Pics/IMG_2665.PNG)
 
 **My GofundMe**
 - I organised a GoFundMe to raise money to attend a summer school by the International Space University hosted by Nasa Houston Center, it was a total success.
-[GoFundMe](https://www.gofundme.com/f/andrea-alla-international-space-university)
-[Corriere della sera](https://bari.corriere.it/notizie/cronaca/24_febbraio_21/andrea-troise-ingegnere-barese-raccolto-ottomila-euro-in-due-giorni-sul-web-studiare-nasa-16a1a5a8-036a-4124-ade4-316a75dfcxlk.shtml)
+- [GoFundMe](https://www.gofundme.com/f/andrea-alla-international-space-university)
+- [Corriere della sera](https://bari.corriere.it/notizie/cronaca/24_febbraio_21/andrea-troise-ingegnere-barese-raccolto-ottomila-euro-in-due-giorni-sul-web-studiare-nasa-16a1a5a8-036a-4124-ade4-316a75dfcxlk.shtml)
 
-
+## My links
 - [Linkedin](https://www.linkedin.com/in/andrea-troise/)
 - [ResearchGate](https://www.researchgate.net/profile/Andrea-Troise-2)
 - [Orcid](https://orcid.org/0009-0006-4864-6603)
