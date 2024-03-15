@@ -1,16 +1,20 @@
 ## PhD candidate in Aerospace Engineering
 
-Hi! My name is Andrea Troise, you ended up in this small corner of the internet which is my personal resume.
-It is also the place that I am going to use to dump some of the amazing stuff that I get to do in my life!
+I am an Italian engineer, currently enrolled in the XXXVIII Cycle of Politecnico di Bari PhD Programme in engineering and aerospace sciences, with a grant co-funded by Astradyne s.r.l.
+
+I obtained a bachelor’s degree in Mechanical Engineering at Politecnico di Bari,and a master’s degree in Mechatronic Engineering at Politecnico di Torino.
+In my studies, I learned to mix many different subjects, from mechanics to electronics, with a predilection for aerospace applications.
+
+I consider myself a curious person, I always ask myself the reasoning behind things and put in discussion my point of view.
 
 ## My education
 - Visiting researcher | Stony Brook University (_Ongoing since January 2022_)
 - Ph.D., Engineering and Aerospace Sciences | Polytechnic University of Bari (_Ongoing since November 2022_)
-- M.S., Mechatronic Engineering | With honors	| Polytechnic University of Turin (_September 2020 to October 2022_)
+- M.S., Mechatronic Engineering | Final grade: With honors	| Polytechnic University of Turin (_September 2020 to October 2022_)
 - Undergrad researcher | National Technical University of Athens (_February 2022 to August 2022_)
-- B.S., Mechanical Engineering | 108/110 | Polytechnic University of Bari (_September 2017 to July 2020_)
+- B.S., Mechanical Engineering | Final grade: 108/110 | Polytechnic University of Bari (_September 2017 to July 2020_)
 
-# Skills: Space sciences, Space deployable structures, MATLAB, Finite element modelling, Control theory, Mechatronics, Problem solving
+### Skills: Space sciences, Space deployable structures, MATLAB, Finite element modelling, Control theory, Mechatronics, Problem solving
 
 ## Work Experience
 **Research And Development Engineer @ [Astradyne](https://www.astradyne.space/) (_September 2022 - Present_)**
@@ -44,7 +48,8 @@ I've been passionate about space for many many years, but before starting the Ph
 That is why, after discovering the amazing work carried out by the Space Generation Advisory Council in the space sector, I tried to give my small contribute in supporting students and young professionals that need guidance in their own path. That's exactly what the Mentoring Committee objective is. We match students and young professionals with senior individuals with years of expertise in the space sector, so that they can connect and enrich each other life.
 
 **Golf**
-- This typically sounds weird to many people from my region, but I have spent a lot of time playing golf in my life. As my father was deeply passionate towards this sport, I followed his steps and I took part in several national and international championships. I have also been Apulian regional champion in 2015 and 2016. Playing a sport at high level gave me the opportunity to be in high-pressure situations, where every move you make puts the overall result at stake. It's been a while since I last competed agonistically, but golf taught me so much during my teenage years. Hopefully I will start to play again someday. 
+- This typically sounds weird to many people from my region, but I have spent a lot of time playing golf in my life. As my father was deeply passionate towards this sport, I followed his steps and I took part in several national and international championships. I have also been Apulian regional champion in 2015 and 2016. Playing a sport at high level gave me the opportunity to be in high-pressure situations, where every move you make puts the overall result at stake. It's been a while since I last competed agonistically, but golf taught me so much during my teenage years. Hopefully I will start to play again someday.
+
 
 **Volunteering**
 - I've donated blood regularly since high school, it is just one of those things that make me feel better with myself. I attended several medical fundraising events organised by my local Lions International district. I also organised a scientific divulgation event talking about space economy and space environmental footprint (LinkedIn)[https://www.linkedin.com/events/ingegneriaescienzeaerospaziali-7149455471769272320/comments/]. I aim to give back to my community, and I will try to do it more and more in the incoming years.
