@@ -43,7 +43,7 @@ I consider myself a curious person, I always ask myself the reasoning behind thi
 - Over the years Borgo Egnazia has hosted many prestigious events, among them there is also the G7 in 2024.
 
 ## Space Stuff
-![Wall-e](/pics/IMG_4643.jpg)
+![Wall-e](/Pics/IMG_4643.jpg)
 **[Mentoring Team](https://spacegeneration.org/mentoring) Co-Lead at Space Generation Advisory Council**
 - I've been passionate about space for many many years, but before starting the PhD it looked like a field very difficult to approach, especially in my region (southern Italy) and without a space-focused academical background. After beginning my PhD a new world opened up in front of me: I discovered a field that is indeed very different from my initial idea. The space sector needs interdisciplinarity and talents, now more than ever.
 That is why, after discovering the amazing work carried out by the Space Generation Advisory Council in the space sector, I tried to give my small contribute in supporting students and young professionals that need guidance in their own path. That's exactly what the Mentoring Committee objective is. We match students and young professionals with senior individuals with years of expertise in the space sector, so that they can connect and enrich each other life.
@@ -52,16 +52,16 @@ That is why, after discovering the amazing work carried out by the Space Generat
 ## Outside of work
 **Golf**
 - This typically sounds weird to many people from my region, but I have spent a lot of time playing golf in my life. As my father was deeply passionate towards this sport, I followed his steps and I took part in several national and international championships. I have also been Apulian regional champion in 2015 and 2016. Playing a sport at high level gave me the opportunity to be in high-pressure situations, where every move you make puts the overall result at stake. It's been a while since I last competed agonistically, but golf taught me so much during my teenage years. Hopefully I will start to play again someday.
-![Golf](/pics/FINECO_SAN-DOMENICO9.jpg)
+![Golf](/Pics/FINECO_SAN-DOMENICO9.jpg)
 
 **Volunteering**
 - I've donated blood regularly since high school, it is just one of those things that make me feel better with myself. I attended several medical fundraising events organised by my local Lions International district. I also organised a scientific divulgation event talking about space economy and space environmental footprint (LinkedIn)[https://www.linkedin.com/events/ingegneriaescienzeaerospaziali-7149455471769272320/comments/]. I aim to give back to my community, and I will try to do it more and more in the incoming years.
 
 **Drawings**
 Sometimes I draw stuff, I'm not good, I typically do it only to express emotions. I love Escher and his works, the spiral-y thing is actually one of his works, it is my profile picture in many social media. The spiral represents the Uroboro, a symbol of eternal return, for me it is the symbol of committment towrds the continuous improvement of myself.
-![Uroboro](/pics/IMG_2663.jpg)
-![eye](/pics/IMG_2664.jpg)
-![Kintsugi](/pics/IMG_2665.jpg)
+![Uroboro](/Pics/IMG_2663.jpg)
+![eye](/Pics/IMG_2664.jpg)
+![Kintsugi](/Pics/IMG_2665.jpg)
 
 
 ## Publications
