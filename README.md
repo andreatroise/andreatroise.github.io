@@ -51,6 +51,8 @@ As you can imagine, Wall-e was my favourite Disney movie growing up...
 That is why, after discovering the amazing work carried out by the Space Generation Advisory Council in the space sector, I tried to give my small contribute in supporting students and young professionals that need guidance in their own path. That's exactly what the Mentoring Committee objective is. We match students and young professionals with senior individuals with years of expertise in the space sector, so that they can connect and enrich each other life.
 
 ![Malerba](/Pics/Immagine1.jpg)
+In this picture, I had the honor of meeting and speaking with Franco Malerba, the first Astronaut in italian history, truly a beautiful person.
+
 **Conferences**
 - I had the pleasure of attending several space-related conferences in these years, during which I learnt many things and met many amazing people
 - [European Space Generation Workshop](https://spacegeneration.org/7esgw2023) | Bari, Italy | Delegate in the Space Weather effects
