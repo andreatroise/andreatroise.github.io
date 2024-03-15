@@ -71,7 +71,7 @@ In this picture, I had the honor of meeting and speaking with Franco Malerba, th
 
 ## Outside of work
 **Golf**
-- This typically sounds weird to many people from my region, but I have spent a lot of time playing golf in my life. As my father was deeply passionate towards this sport, I followed his steps and I took part in several national and international championships. I have also been Apulian regional champion in 2015 and 2016. Playing a sport at high level gave me the opportunity to be in high-pressure situations, where every move you make puts the overall result at stake. It's been a while since I last competed agonistically, but golf taught me so much during my teenage years. Hopefully I will start to play again someday.
+- This typically sounds weird to many people from my region, but I have spent a lot of time playing golf in my life. As my father was deeply passionate towards this sport, I followed his steps and I took part in several national and international championships. I have also been Apulian regional champion in 2014 and 2015. Playing a sport at high level gave me the opportunity to be in high-pressure situations, where every move you make puts the overall result at stake. It's been a while since I last competed agonistically, but golf taught me so much during my teenage years. Hopefully I will start to play again someday.
 ![Golf](/Pics/FINECO_SAN-DOMENICO9.jpg)
 
 **Volunteering**
