@@ -49,9 +49,7 @@ That is why, after discovering the amazing work carried out by the [Space Genera
 
 **Conferences**
 - I had the pleasure of attending several space-related conferences in these years, during which I learnt many things and met many amazing people
-![Malerba](/Pics/1694637249452.jpg)
-In this picture, I had the honor of meeting and speaking with Franco Malerba, the first Astronaut in italian history, truly a beautiful person.
-- [European Space Generation Workshop](https://spacegeneration.org/7esgw2023) | Bari, Italy | Delegate in the Space Weather effects
+- [European Space Generation Workshop](https://spacegeneration.org/7esgw2023) | Bari, Italy | Delegate in the Space Weather WG
 - [Spring school on space commercialisation](https://ecseco.org/event/spring-school-gsew/) | Bari, Italy | PhD student partecipant
 - [Global Space Economic Workshop](https://www.dtascarl.org/en/the-global-space-economic-workshop/) | Mesagne, Italy | Representing Astradyne
 - [International Conference on Space Exploration](https://www.aidaa.it/aerospaceitaly2024/aae/#:~:text=AIDAA%20is%20glad%20to%20announce,selected%20as%20the%20organizing%20partner.) | Turin, Italy | PhD student partecipant
@@ -61,6 +59,8 @@ In this picture, I had the honor of meeting and speaking with Franco Malerba, th
 - [A&D Meetings](https://torino.bciaerospace.com/) | Turin, Italy | Representing Astradyne
 - Italian Innovation days | Tokyo, Italy | Representing Astradyne
 
+![Malerba](/Pics/1694637249452.jpg)
+In this picture, I had the honor of meeting and speaking with Franco Malerba, the first Astronaut in italian history, truly a beautiful person.
 
 ## Publications
 1. Troise, A. et al. (2023). Variable orifice damper implementation for seismic semi-active control of civil structures. Proceedings of the 8th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, [DOI](https://doi.org/10.7712/120123.10553.20285)
