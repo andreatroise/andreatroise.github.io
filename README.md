@@ -80,7 +80,7 @@ In this picture, I had the honor of meeting and speaking with Franco Malerba, th
 - I've donated blood regularly since high school, it is just one of those things that make me feel better with myself. I attended several medical fundraising events organised by my local Lions International district. I also organised a scientific divulgation event talking about space economy and space environmental footprint (LinkedIn)[https://www.linkedin.com/events/ingegneriaescienzeaerospaziali-7149455471769272320/comments/]. I aim to give back to my community, and I will try to do it more and more in the incoming years.
 
 **Drawings**
-- Sometimes I draw stuff, I'm not good, I typically do it only to express emotions. I love Escher and his works, the spiral-y thing is actually one of his works, it is my profile picture in many social media. The spiral represents the Uroboro, a symbol of eternal return, for me it is the symbol of committment towrds the continuous improvement of myself.
+- Sometimes I draw stuff, I'm not good, I typically do it only to express emotions. I love Escher and his works, the spiral-y thing is actually one of his works, it is my profile picture in many social media. The spiral represents the Uroboro, a symbol of eternal return, for me it is the symbol of committment towards the continuous improvement of myself.
 ![Uroboro](/Pics/IMG_2663.JPG)
 ![eye](/Pics/IMG_2664.JPG)
 ![Kintsugi](/Pics/IMG_2665.PNG)
