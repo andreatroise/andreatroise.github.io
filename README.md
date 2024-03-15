@@ -65,10 +65,10 @@ In this picture, I had the honor of meeting and speaking with Franco Malerba, th
 
 
 ## Publications
-1. Troise, A. et al. (2023). Variable orifice damper implementation for seismic semi-active control of civil structures. Proceedings of the 8th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering DOI: [https://doi.org/10.7712/120123.10553.20285]
-2. Buscicchio, A. et al. "Fret (flexible reinforced electronics with textile): A novel technology enabler for deployable origami-inspired lightweight aerospace structures." AIAA SCITECH 2023 Forum. 2023 DOI: [https://doi.org/10.2514/6.2023-2081]
-3. Buscicchio, Alessandro, et al. "SolarCube: An Origami-Inspired Lightweight Deployable Solar Panel for Nanosatellites." 2023 13th European Space Power Conference (ESPC). IEEE, 2023 DOI: [https://doi.org/10.1109/espc59009.2023.10298125]
-4. Troise, A., et al. "Reduced-order modelling of the deployment of a modified flasher origami for aerospace applications." Materials Research Proceedings 37 (2023), DOI: [https://doi.org/10.21741/9781644902813-120]
+1. Troise, A. et al. (2023). Variable orifice damper implementation for seismic semi-active control of civil structures. Proceedings of the 8th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, [DOI](https://doi.org/10.7712/120123.10553.20285)
+2. Buscicchio, A. et al. "Fret (flexible reinforced electronics with textile): A novel technology enabler for deployable origami-inspired lightweight aerospace structures." AIAA SCITECH 2023 Forum. 2023, [DOI](https://doi.org/10.2514/6.2023-2081)
+3. Buscicchio, Alessandro, et al. "SolarCube: An Origami-Inspired Lightweight Deployable Solar Panel for Nanosatellites." 2023 13th European Space Power Conference (ESPC). IEEE, 2023, [DOI](https://doi.org/10.1109/espc59009.2023.10298125)
+4. Troise, A., et al. "Reduced-order modelling of the deployment of a modified flasher origami for aerospace applications." Materials Research Proceedings 37 (2023), [DOI](https://doi.org/10.21741/9781644902813-120)
 
 
 ## Outside of work
@@ -97,4 +97,4 @@ In this picture, I had the honor of meeting and speaking with Franco Malerba, th
 - [Instagram](https://www.instagram.com/andrea.troise.9/)
 - [Facebook](https://www.facebook.com/a.troise.9/)
 
-  You can reach messaging me through LinkedIn
+  You can reach me through LinkedIn
