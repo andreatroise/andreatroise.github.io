@@ -4,11 +4,11 @@ Hi! My name is Andrea Troise, you ended up in this small corner of the internet 
 It is also the place that I am going to use to dump some of the amazing stuff that I get to do in my life!
 
 ## My education
-**- Visiting researcher | Stony Brook University (_Ongoing since January 2022_)**
-**- Ph.D., Engineering and Aerospace Sciences | Polytechnic University of Bari (_Ongoing since November 2022_)**
-**- M.S., Mechatronic Engineering | With honors	| Polytechnic University of Turin (_September 2020 to October 2022_)**
-**- Undergrad researcher | National Technical University of Athens (_February 2022 to August 2022_)**
-**- B.S., Mechanical Engineering | 108/110 | Polytechnic University of Bari (_September 2017 to July 2020_)**
+- **Visiting researcher | Stony Brook University (_Ongoing since January 2022_)**
+- **Ph.D., Engineering and Aerospace Sciences | Polytechnic University of Bari (_Ongoing since November 2022_)**
+- **M.S., Mechatronic Engineering | With honors	| Polytechnic University of Turin (_September 2020 to October 2022_)**
+- **Undergrad researcher | National Technical University of Athens (_February 2022 to August 2022_)**
+- **B.S., Mechanical Engineering | 108/110 | Polytechnic University of Bari (_September 2017 to July 2020_)**
 
 ## Skills: Space sciences, Space deployable structures, MATLAB, Finite element modelling, Control theory, Mechatronics, Problem solving
 
