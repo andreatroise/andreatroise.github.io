@@ -48,7 +48,7 @@ As you can imagine, Wall-e was my favourite Disney movie growing up...
 That is why, after discovering the amazing work carried out by the [Space Generation Advisory Council](https://spacegeneration.org/) for young space enthusiasts, I tried to give my small contribute in supporting students and young professionals that need guidance for their own path. That's exactly the objective of the Mentoring Committee. We match students and young graduates with senior professionals with years of expertise in the space sector, so that they can connect and enrich each other's life.
 
 **Conferences**
-- I had the pleasure of attending several space-related conferences in these years, during which I learnt many things and met many amazing people
+- I had the pleasure of attending several space-related conferences in these years, during which I learnt many new things and met several amazing people
 - [European Space Generation Workshop](https://spacegeneration.org/7esgw2023) | Bari, Italy | Delegate in the Space Weather WG
 - [Spring school on space commercialisation](https://ecseco.org/event/spring-school-gsew/) | Bari, Italy | PhD student partecipant
 - [Global Space Economic Workshop](https://www.dtascarl.org/en/the-global-space-economic-workshop/) | Mesagne, Italy | Representing Astradyne
@@ -72,7 +72,7 @@ In this picture, I had the honor of meeting and speaking with Franco Malerba, th
 ## Outside of work
 **Golf**
 - This typically sounds weird to many people from my region, but I have spent a lot of time playing golf in my life. As my father was deeply passionate towards this sport, I followed his steps and I took part in several national and international championships. I have also been Apulian regional champion in 2014 and 2015. Playing a sport at high level gave me the opportunity to be in high-pressure situations, where every move you make puts the overall result at stake. It's been a while since I last competed agonistically, but golf taught me so much during my teenage years. Hopefully I will start to play again someday.
-![Golf](/Pics/FINECO_SAN-DOMENICO9.jpg)
+![Golf](/Pics/kinder_final.jpg)
 
 **Volunteering**
 - I've donated blood regularly since high school, it is just one of those things that make me feel better with myself. I attended several medical fundraising events organised by my local Lions International district. I also organised a scientific divulgation event talking about space economy and space environmental footprint (LinkedIn)(https://www.linkedin.com/events/ingegneriaescienzeaerospaziali-7149455471769272320/comments/). I aim to give back to my community, and I will try to do it more and more in the incoming years.
