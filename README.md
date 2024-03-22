@@ -20,11 +20,13 @@ As you can imagine, Wall-e was my favourite Disney movie growing up...
 
 ## Work Experience
 **Research And Development Engineer @ [Astradyne](https://www.astradyne.space/) (_September 2022 - Present_)**
-
 - Responsible for research on origami-inspired deployable solar panels for space solar arrays as part of my PhD studies, developing innovative designs and testing their structural performance through numerical simulations
 - Presented the proprietary patented technology in several international events and conferences
 - Actively collaborating with a multidisciplinary team of engineers and scientists to advance and contribute to the development of next-gen space technologies.
 - Active role in the business and management aspects of the company, helping to identify new market opportunities
+
+**Teaching Assistant @ Polytechnic University of Bari (_October 2021 - March 2022_)**
+- Teaching assistant for the course “Laboratorio di Progettazione e Produzione Industriale Digitale”, course held in the Bachelor's Degree of Aerospace Engineering.
 
 **Tutor @ Polytechnic University of Turin (_October 2021 - March 2022_)**
 - Tutored students in laboratory activities for the Automatic Control course at Politecnico di Torino, providing hands-on support and guidance during in-person lab sessions.
