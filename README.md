@@ -9,7 +9,7 @@ I consider myself a curious person, I always ask myself the reasoning behind thi
 As you can imagine, Wall-e was my favourite Disney movie growing up...
 
 ## My education
-- Space Studies Program 2024 | International Space University co-hosted by NASA and Rice University (_June 2024 to August 2024_)
+- Space Studies Program 2024 | International Space University - co-hosted by NASA and Rice University (_June 2024 to August 2024_)
 - Visiting researcher | Stony Brook University (_Ongoing since January 2022_)
 - Ph.D., Engineering and Aerospace Sciences | Polytechnic University of Bari (_Ongoing since November 2022_)
 - M.S., Mechatronic Engineering | Final grade: With honors	| Polytechnic University of Turin (_September 2020 to October 2022_)
