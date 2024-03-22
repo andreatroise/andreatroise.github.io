@@ -25,7 +25,7 @@ As you can imagine, Wall-e was my favourite Disney movie growing up...
 - Actively collaborating with a multidisciplinary team of engineers and scientists to advance and contribute to the development of next-gen space technologies.
 - Active role in the business and management aspects of the company, helping to identify new market opportunities
 
-**Teaching Assistant @ Polytechnic University of Bari (_October 2021 - March 2022_)**
+**Teaching Assistant @ Polytechnic University of Bari (February 2023 - June 2023)**
 - Teaching assistant for the course “Laboratorio di Progettazione e Produzione Industriale Digitale”, course held in the Bachelor's Degree of Aerospace Engineering.
 
 **Tutor @ Polytechnic University of Turin (_October 2021 - March 2022_)**
