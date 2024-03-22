@@ -9,6 +9,7 @@ I consider myself a curious person, I always ask myself the reasoning behind thi
 As you can imagine, Wall-e was my favourite Disney movie growing up...
 
 ## My education
+- Space Studies Program 2024 | International Space University co-hosted by NASA and Rice University (_June 2024 to August 2024_)
 - Visiting researcher | Stony Brook University (_Ongoing since January 2022_)
 - Ph.D., Engineering and Aerospace Sciences | Polytechnic University of Bari (_Ongoing since November 2022_)
 - M.S., Mechatronic Engineering | Final grade: With honors	| Polytechnic University of Turin (_September 2020 to October 2022_)
@@ -84,8 +85,7 @@ In this picture, I had the honor of meeting and speaking with Franco Malerba, th
 ![Kintsugi](/Pics/IMG_2665.PNG)
 
 **My GofundMe**
-- I organised a GoFundMe to raise money to attend a summer school by the International Space University hosted by Nasa Houston Center, it was a total success.
-- [GoFundMe](https://www.gofundme.com/f/andrea-alla-international-space-university)
+- I organised a [GoFundMe](https://www.gofundme.com/f/andrea-alla-international-space-university) to raise money to attend a summer school by the International Space University hosted by Nasa Houston Center, it was a total success.
 - [Corriere della sera](https://bari.corriere.it/notizie/cronaca/24_febbraio_21/andrea-troise-ingegnere-barese-raccolto-ottomila-euro-in-due-giorni-sul-web-studiare-nasa-16a1a5a8-036a-4124-ade4-316a75dfcxlk.shtml)
 
 ## My links
